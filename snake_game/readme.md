@@ -18,4 +18,4 @@ A classic Snake Game built using Python and the Turtle module.
 
 3. Start the Game
    ```bash
-   python3 snake_game.py
+   python3 main.py
